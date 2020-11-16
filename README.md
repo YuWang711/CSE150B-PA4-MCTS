@@ -5,8 +5,9 @@ Your task is to implement MCTS for playing Gomoku. The base game engine is from 
 Again, DO NOT publicly fork this repositiory. 
 
 ## Due date
-Nov-29 11:59 pm. Only submit the `ai.py` file on Gradescope. 
+Dec-6 11:59pm. Submissions by Nov-29 11:59 pm will receive 3 extra points, assuming that it is close to being fully correct (12 points or more). A detailed pseudocode document will be released on Nov-30 which will make the implementation much easier, so submissions after that will not receive extra credits. 
 
+As usual, only submit the `ai.py` file on Gradescope. 
 
 ## The Game
 Gomoku is a popular game played on the Go board, following much simpler rules. 
